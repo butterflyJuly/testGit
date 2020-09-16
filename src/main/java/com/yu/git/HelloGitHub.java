@@ -7,7 +7,7 @@ package com.yu.git;
 public class HelloGitHub {
 
 	public static void main(String[] args) {
-		System.out.println("通过GitHub克隆添加的项目");
+		System.out.println("通过GitHub克隆添加的项目内容");
 	}
 
 }
